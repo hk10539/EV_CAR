@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da790a42-b701-4687-a445-94e51dbf15f0" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/ExcelSheetCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/FolderCreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/OpenBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/RESTAPITESTING.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/RandomDataGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/StringFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/restassured/TakeScreenShot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/restassured/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/restassured/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +26,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2hoLmhZwe7Xqnre6nrOgVf822d6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -47,10 +38,18 @@
     "Application.Main.executor": "Run",
     "Application.RESTAPITESTING.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/EV_CAR/src/main/java/org/restassured",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/EV_CAR/src/main/java/org/restassured/Main.java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
@@ -94,6 +93,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,6 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718255643403</updated>
+      <workItem from="1789812011175" duration="10000" />
+      <workItem from="1789812079617" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -113,6 +122,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
